@@ -50,6 +50,8 @@ Citizen.CreateThread(function()
     if config then
         loadAnimDict(ANIM_DICT)
         loadModel(HANDCUFF_MODEL)
+        
+        RegisterKeyMapping('cuff', 'Menotter/Démenotter', 'keyboard', config.defaultKey or '')
     end
 end)
 
@@ -63,8 +65,6 @@ RegisterCommand('cuff', function()
         ESX.ShowNotification(getTranslation('noPlayerNearby'))
     end
 end, false)
-
-RegisterKeyMapping('cuff', 'Menotter/Démenotter', 'keyboard', '')
 
 RegisterNetEvent('nkscuff:handcuff')
 AddEventHandler('nkscuff:handcuff', function(handcuffer)
