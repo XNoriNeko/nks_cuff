@@ -19,7 +19,7 @@ This is an optimized cuff script for ESX that allows players to handcuff and unh
     ```json
     {
         "language": "eng",
-        "defaultKey": "YOUR KEY" (Exemple : "F5")
+        "defaultKey": "YOUR KEY" (Example: "F5")
     }
     ```
 
