@@ -10,7 +10,8 @@ This is an optimized cuff script for ESX that allows players to handcuff and unh
 
 ## Installation
 
-1. 📥 Clone or download this repository. If you download the ZIP file, make sure to remove the `-main` from the folder name.
+1. 📥 Clone or download this repository. If you download the ZIP file, 
+make sure to remove the `-main` from the folder name.
 2. ➕ Add the resource to your `server.cfg`:
     ```plaintext
     ensure nks_cuff
@@ -42,7 +43,8 @@ Ceci est un script de menottes optimisé pour ESX qui permet aux joueurs de meno
 
 ## Installation
 
-1. 📥 Clonez ou téléchargez ce dépôt. Si vous téléchargez le fichier ZIP, assurez-vous de retirer le `-main` du nom du dossier.
+1. 📥 Clonez ou téléchargez ce dépôt. Si vous téléchargez le fichier ZIP, 
+assurez-vous de retirer le `-main` du nom du dossier.
 2. ➕ Ajoutez la ressource à votre `server.cfg` :
     ```plaintext
     ensure nks_cuff
