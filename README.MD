@@ -1,7 +1,7 @@
 # ENG | Cuff Script for ESX 🚔
 
 ## Description
-This is an optimized cuff script for ESX that allows players to handcuff and unhandcuff other players in FiveM.
+This is an optimized cuff script for ESX that allows players to handcuff and unhandcuff other players in FiveM. The script is highly efficient, consuming minimal resources (0.0ms).
 
 ## Features
 - 🔒 Handcuff and unhandcuff players
@@ -34,7 +34,7 @@ make sure to remove the `-main` from the folder name.
 # FR | Script de Menottes pour ESX 🚔
 
 ## Description
-Ceci est un script de menottes optimisé pour ESX qui permet aux joueurs de menotter et de démenotter d'autres joueurs dans FiveM.
+Ceci est un script de menottes optimisé pour ESX qui permet aux joueurs de menotter et de démenotter d'autres joueurs dans FiveM. Le script est très efficace, consommant peu de ressources (0.0ms).
 
 ## Fonctionnalités
 - 🔒 Menotter et démenotter les joueurs
