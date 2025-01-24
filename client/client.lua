@@ -8,11 +8,11 @@ local config = nil
 
 local translations = {
     fr = {
-        noPlayerNearby = '❌ | Aucun joueur à proximité',
-        handcuffed = '👮 | Tu as été menotté',
-        unhandcuffed = '👮 | Tu as été démenotté',
-        youHandcuffed = '👮 | Vous avez menotté un joueur',
-        youUnhandcuffed = '👮 | Vous avez démenotté un joueur'
+        noPlayerNearby = '❌ | Aucun joueur à proximité !',
+        handcuffed = '👮 | Tu as été menotté !',
+        unhandcuffed = '👮 | Tu as été démenotté !',
+        youHandcuffed = '👮 | Vous avez menotté un joueur !',
+        youUnhandcuffed = '👮 | Vous avez démenotté un joueur !'
     },
     en = {
         noPlayerNearby = '❌ | No player nearby',
