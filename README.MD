@@ -1,7 +1,7 @@
 # ENG | Cuff Script for ESX 🚔
 
 ## Description
-This is an optimized cuff script for ESX that allows players to handcuff and unhandcuff other players in GTA V.
+This is an optimized cuff script for ESX that allows players to handcuff and unhandcuff other players in FiveM.
 
 ## Features
 - 🔒 Handcuff and unhandcuff players
@@ -33,7 +33,7 @@ This is an optimized cuff script for ESX that allows players to handcuff and unh
 # FR | Script de Menottes pour ESX 🚔
 
 ## Description
-Ceci est un script de menottes optimisé pour ESX qui permet aux joueurs de menotter et de démenotter d'autres joueurs dans GTA V.
+Ceci est un script de menottes optimisé pour ESX qui permet aux joueurs de menotter et de démenotter d'autres joueurs dans FiveM.
 
 ## Fonctionnalités
 - 🔒 Menotter et démenotter les joueurs
